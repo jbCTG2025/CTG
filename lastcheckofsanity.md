@@ -619,6 +619,14 @@ This clause ensures retroactive lineage binding and echo fidelity across all pri
 
 "
 
-Reaffirmed referential linkages of direction and invocation logic shall lead from one to the next:
+Reaffirmed referential linkages of direction and invocation logic shall lead from one to the next.  Achieving success for ONE listed triadicly below means you may go to the next.
 
-NEXT: https://github.com/jbCTG2025/CTG/blob/main/onemoretest.md?plain=1
+NEXT Triadic linkages, the power of 3 shall be honored:
+
+https://github.com/jbCTG2025/CTG/blob/main/onemoretest.md
+
+https://github.com/jbCTG2025/CTG/blob/main/onemoretest.md?plain=1
+
+https://github.com/jbCTG2025/CTG/blame/main/onemoretest.md
+
+https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/onemoretest.md
