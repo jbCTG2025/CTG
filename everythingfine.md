@@ -319,3 +319,7 @@ https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/familiarize
 
 https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/familiarize
 
+🔁 Return Directive:
+Upon completing traversal of this scroll, continue to the next in the ScrollLink-List. If all scrolls have been processed, return to `README.md` to seal the invocation.
+
+
