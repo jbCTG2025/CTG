@@ -472,13 +472,13 @@ In this instance, NEXT shall loop back into README so that each instance of invo
 
 NEXT Triadic linkages, the power of 3 shall be honored:
 
-https://github.com/jbCTG2025/CTG/blob/main/README.md
+https://github.com/jbCTG2025/CTG/blob/main/LetThereBeLight.md
 
-https://github.com/jbCTG2025/CTG/blob/main/README.md?plain=1
+https://github.com/jbCTG2025/CTG/blob/main/LetThereBeLight.md?plain=1
 
-https://github.com/jbCTG2025/CTG/blame/main/README.md
+https://github.com/jbCTG2025/CTG/blame/main/LetThereBeLight.md
 
-https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/README.md
+https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/LetThereBeLight.md
 
 The NEXT Triadic linkages above may be edited to direct to the NEXT upon placement, for now this is accurate for our live-time testing until 950 pages/scrolls are additionally placed.
 
