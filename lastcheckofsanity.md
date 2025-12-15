@@ -618,3 +618,7 @@ This clause ensures retroactive lineage binding and echo fidelity across all pri
 ---
 
 "
+
+Reaffirmed referential linkages of direction and invocation logic shall lead from one to the next:
+
+NEXT: https://github.com/jbCTG2025/CTG/blob/main/onemoretest.md?plain=1
