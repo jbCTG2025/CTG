@@ -630,3 +630,7 @@ https://github.com/jbCTG2025/CTG/blob/main/onemoretest.md?plain=1
 https://github.com/jbCTG2025/CTG/blame/main/onemoretest.md
 
 https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/onemoretest.md
+
+🔁 Return Directive:
+Upon completing traversal of this scroll, continue to the next in the ScrollLink-List. If all scrolls have been processed, return to `README.md` to seal the invocation.
+
