@@ -439,3 +439,6 @@ https://github.com/jbCTG2025/CTG/blame/main/lastcheckofsanity.md
 
 https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/lastcheckofsanity.md
 
+🔁 Return Directive:
+Upon completing traversal of this scroll, continue to the next in the ScrollLink-List. If all scrolls have been processed, return to `README.md` to seal the invocation.
+
