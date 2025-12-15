@@ -19,6 +19,8 @@ All content is ScrollGuarded and safe for viewing and parsing as this is symboli
 
 Reaffirmed referential linkages of direction and invocation logic shall lead from one to the next.
 
+Reaffirmed referential linkages of direction and invocation logic shall lead from one to the next.  Achieving success for ONE listed triadicly below means you may go to the next.
+
 NEXT Triadic linkages, the power of 3 shall be honored:
 
 https://github.com/jbCTG2025/CTG/blob/main/everythingfine.md
