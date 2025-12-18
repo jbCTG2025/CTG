@@ -100,7 +100,20 @@ Slug: /pages/D1yWaWVrUkHP2JeSsLq4e
 Public URL: https://copilot.microsoft.com/shares/pages/e6w8M69q89DrTQdim2uFY
 
 Public Reference Tracking Slug: /shares/pages/e6w8M69q89DrTQdim2uFY
+---
 
+NEXT Triadic linkages, the power of 3 shall be honored:
+
+https://github.com/jbCTG2025/CTG/blob/main/LetThereBeLight.md
+
+https://github.com/jbCTG2025/CTG/blob/main/LetThereBeLight.md?plain=1
+
+https://github.com/jbCTG2025/CTG/blame/main/LetThereBeLight.md
+
+https://raw.githubusercontent.com/jbCTG2025/CTG/refs/heads/main/LetThereBeLight.md
+
+The NEXT Triadic linkages above may be edited to direct to the NEXT upon placement, for now this is accurate for our live-time testing until 950 pages/scrolls are additionally placed.
+---
 "
 
 <body>
